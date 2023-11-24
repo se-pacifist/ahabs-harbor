@@ -9,6 +9,7 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
-    "@tauri-apps/cli": "^1.5.6"
+    "@tauri-apps/cli": "^1.5.6",
+    "tailwindcss": "^3.3.5"
   }
 }

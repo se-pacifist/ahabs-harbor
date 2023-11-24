@@ -1,7 +1,10 @@
 [build]
 target = "./index.html"
 
-[watch]
+[[hooks]]
+stage = "pre_build"
+command = "sh"
+command_arguments = ["-c", "npx tailwindcss -i input.css -o style/output.css"]
 
 [serve]
 address = "0.0.0.0"

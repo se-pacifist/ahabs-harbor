@@ -26,17 +26,7 @@
     "security": {
       "csp": null
     },
-    "windows": [
-      {
-        "fullscreen": false,
-        "resizable": true,
-        "title": "Ahabs Harbor",
-        "width": 800,
-        "height": 600,
-        "transparent": true,
-        "decorations": true
-      }
-    ]
+    "windows": []
   },
   "plugins": {
     "shell": {

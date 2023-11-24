@@ -3,6 +3,6 @@
 
 # Ahabs Harbor
 
-Containerd + Kubernetes + GUI
+Containerd + BuildKit + k3s + GUI
 
 </div>
